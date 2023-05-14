@@ -2,7 +2,7 @@
 
 _Code repository for the EACL 2023 paper "Improving User Controlled Table-To-Text Generation Robustness"._
 
-- **Paper url**: https://aclanthology.org/2023.findings-eacl.175/
+- **Paper**: https://aclanthology.org/2023.findings-eacl.175/
 
 - **Cite as:**
 ```
